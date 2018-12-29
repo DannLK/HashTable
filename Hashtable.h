@@ -1,3 +1,4 @@
+// Daniel Lok - Hashtable header file
 #include <iostream>
 #include <cstdlib>
 #include <string>

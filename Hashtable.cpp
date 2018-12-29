@@ -1,3 +1,8 @@
+// Daniel Lok - Hashtable
+// Looking at efficient ways of storing data.
+// Time Complexity: O(1) if hashing function is good.
+// Space Complexirty: O(N)
+
 #include "Hashtable.h"
 
 Hashtable::Hashtable(){

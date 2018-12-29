@@ -1,0 +1,1 @@
+Hash table that maps different names to different 'buckets' on the hash table. Given someones name and its corresponding key (favourite drink) it hashes the name and stores it in one of the 'buckets'.
